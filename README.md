@@ -13,6 +13,7 @@ I embarked on a coding adventure to recreate the magic of Scrimba from scratch. 
 - **Bootstrap**: I leveraged the Bootstrap framework to streamline development and achieve responsive design effortlessly.
 
 You can access the hosted version of this project [here](https://ekmishra.github.io/Scrimba-clone/).
+
 Thank you for joining me on this coding journey. Let's continue to learn, code, and grow together!
 
 Happy coding!
